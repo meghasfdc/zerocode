@@ -71,16 +71,16 @@
         <guice.version>4.0</guice.version>
         <commons-lang.version>2.6</commons-lang.version>
         <jayway-version>2.2.0</jayway-version>
-        <resteasy-jaxrs.version>2.2.1.GA</resteasy-jaxrs.version>
+        <resteasy-jaxrs.version>3.11.0.Final</resteasy-jaxrs.version>
         <logback.version>1.0.7</logback.version>
-        <wiremock.version>2.19.0</wiremock.version>
+        <wiremock.version>2.26.0</wiremock.version>
         <velocity.version>1.7</velocity.version>
-        <jackson-dataformat-csv.version>2.9.8</jackson-dataformat-csv.version>
+        <jackson-dataformat-csv.version>2.10.4</jackson-dataformat-csv.version>
         <commons-io.version>2.4</commons-io.version>
         <micro-simulator.version>1.1.10</micro-simulator.version>
         <httpclient.version>4.5</httpclient.version>
         <h2.db.version>1.4.191</h2.db.version>
-        <extentreports.version>4.0.9</extentreports.version>
+        <extentreports.version>5.0.0</extentreports.version>
         <version.kafka-clients>2.1.0</version.kafka-clients>
         <version.gson>2.6.2</version.gson>
         <version.univocity-parsers>2.8.2</version.univocity-parsers>
