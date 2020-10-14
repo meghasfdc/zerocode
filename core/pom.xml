@@ -51,7 +51,7 @@
 
     <properties>
         <!-- This project properties -->
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <version.gson>2.6.2</version.gson>
     </properties>
 
