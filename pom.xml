@@ -64,11 +64,11 @@
         <junit-platform-runner.version>1.4.2</junit-platform-runner.version>
         <junit.version>4.12</junit.version>
         <jackson-databind.version>2.9.8</jackson-databind.version>
-        <guava.version>23.0</guava.version>
+        <guava.version>r03</guava.version>
         <jsonassert.version>1.2.3</jsonassert.version>
         <classpath-explorer.version>1.0</classpath-explorer.version>
         <jukito.version>1.4.1</jukito.version>
-        <guice.version>4.0</guice.version>
+        <guice.version>4.1.0</guice.version>
         <commons-lang.version>2.6</commons-lang.version>
         <jayway-version>2.2.0</jayway-version>
         <resteasy-jaxrs.version>2.2.1.GA</resteasy-jaxrs.version>
